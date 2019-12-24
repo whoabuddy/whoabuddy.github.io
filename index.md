@@ -1,11 +1,13 @@
 ---
-title: Whoa, Buddy!
+title: Whoa, Buddy! You found me!
+---
 
 # Whoa, Buddy!
 
 Welcome to my personal portfolio / website!
 
 > Words offer the means to meaning, and for those who will listen, the enunciation of truth.
+
 > _- Alan Moore, V for Vendetta_
 
 ## The Mission
