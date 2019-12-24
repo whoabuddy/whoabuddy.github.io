@@ -1,6 +1,3 @@
----
----
-
 # Whoa, Buddy!
 
 Welcome to my personal portfolio / website!
