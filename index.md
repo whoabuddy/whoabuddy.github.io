@@ -1,5 +1,6 @@
 ---
 title: Whoa, Buddy! You found me!
+description: My personal repository of awesomeness.
 ---
 
 # Whoa, Buddy!
