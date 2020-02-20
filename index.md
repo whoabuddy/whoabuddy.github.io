@@ -20,7 +20,14 @@ We can make the world a better place, but we have to do it __together.__
 
 ### Rock Solid Services
 
-I plan to use a combination of Cloudflare, GitHub Pages, and Backblaze for my newest project.
+I have come across some amazing services along the way, and I not only use but highly recommend the ones below.
+
+- [Cloudflare](https://cloudflare.com) (and Workers Sites)
+- [Github](https://github.com) (and Github Pages)
+- [Jekyll](https://jekyllrb.com) (which powers Github Pages)
+- [Backblaze](https://backblaze.com) (for backups and large file storage)
+- [Runbox](https://runbox) (excellent email service)
+- [Blockstack](https://blockstack.org) (the future of the Internet)
 
 ### Software: At the core of it all
 
@@ -47,13 +54,6 @@ Here are some Linux-specific items that are not cross-platform, but do have simi
 | Linux Mint    | Ubuntu             | Operating system with Cinnamon window manager        |
 | Redshift      | f.lux              | Color and Brightness management based on time of day |
 | tcplay        | Truecrypt          | Truecrypt container creation and management          | 
-
-### Rock Solid Online Services
-
-1. Cloudflare
-2. GitHub Pages
-3. BackBlaze B2 Storage
-4. Runbox Email
 
 ## Want to get in touch?
 
